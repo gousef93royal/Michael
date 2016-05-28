@@ -24,3 +24,11 @@ D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\S
 D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.csproj.GenerateResource.Cache
 D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.exe
 D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.pdb
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\bin\Debug\Statistics.exe.config
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\bin\Debug\Statistics.exe
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\bin\Debug\Statistics.pdb
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.Form1.resources
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.Properties.Resources.resources
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.csproj.GenerateResource.Cache
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.exe
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.pdb

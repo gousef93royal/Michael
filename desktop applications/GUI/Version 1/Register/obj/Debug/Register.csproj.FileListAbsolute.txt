@@ -32,3 +32,10 @@ D:\Michael\Yousuf.20160526\Yousuf.20160526\desktop applications\GUI\Version 1\Re
 D:\Michael\Yousuf.20160526\desktop applications\GUI\Version 1\Register\bin\Debug\Register.exe.config
 D:\Michael\Yousuf.20160526\desktop applications\GUI\Version 1\Register\obj\Debug\Register.exe
 D:\Michael\Yousuf.20160526\desktop applications\GUI\Version 1\Register\obj\Debug\Register.pdb
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Register\bin\Debug\Register.exe.config
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Register\obj\Debug\Register.exe
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Register\obj\Debug\Register.pdb
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Register\bin\Debug\Register.exe
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Register\bin\Debug\Register.pdb
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Register\obj\Debug\Register.UserDetails.resources
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Register\obj\Debug\Register.csproj.GenerateResource.Cache

@@ -20,3 +20,10 @@ D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Ve
 D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Entrance.csproj.GenerateResource.Cache
 D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Version 1.exe
 D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Version 1.pdb
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Entrance.csprojResolveAssemblyReference.cache
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Interop.Phidget21COM.dll
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Entrance.csproj.ResolveComReference.cache
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Version_1.Main.resources
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Version_1.PayPal1.resources
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Version_1.Properties.Resources.resources
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\Version 1\obj\Debug\Entrance.csproj.GenerateResource.Cache

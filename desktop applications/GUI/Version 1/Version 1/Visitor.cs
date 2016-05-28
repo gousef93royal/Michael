@@ -12,7 +12,7 @@ namespace WindowsFormsApplication1
         private MySqlConnection MySqlconnection;
         private List<Items> items_List;
         private List<Materials> material_List;
-        private Customer customer;
+        private Customers customer;
 
         public visitor()
         {

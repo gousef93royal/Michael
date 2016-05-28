@@ -30,3 +30,14 @@ D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\
 D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.csproj.GenerateResource.Cache
 D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.exe
 D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.pdb
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\bin\Debug\LendStation.exe.config
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\bin\Debug\LendStation.exe
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\bin\Debug\LendStation.pdb
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.csprojResolveAssemblyReference.cache
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.AddMaterial.resources
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.LendMain.resources
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.LendSt2.resources
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.Properties.Resources.resources
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.csproj.GenerateResource.Cache
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.exe
+D:\TFS-Git\Yousuf.20160526\desktop applications\GUI\Version 1\LendStation\obj\Debug\LendStation.pdb
