@@ -1,0 +1,26 @@
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Statistics\bin\Debug\Statistics.exe.config
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Statistics\bin\Debug\Statistics.exe
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Statistics\bin\Debug\Statistics.pdb
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Statistics\obj\Debug\Statistics.csprojResolveAssemblyReference.cache
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Statistics\obj\Debug\Statistics.Form1.resources
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Statistics\obj\Debug\Statistics.Properties.Resources.resources
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Statistics\obj\Debug\Statistics.csproj.GenerateResource.Cache
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Statistics\obj\Debug\Statistics.exe
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Statistics\obj\Debug\Statistics.pdb
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Statistics\bin\Debug\Statistics.exe
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Statistics\bin\Debug\Statistics.pdb
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.Form1.resources
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.Properties.Resources.resources
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.csproj.GenerateResource.Cache
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.exe
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.pdb
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\bin\Debug\Statistics.exe.config
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\bin\Debug\Statistics.exe
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\bin\Debug\Statistics.pdb
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.Form1.resources
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.Properties.Resources.resources
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.csproj.GenerateResource.Cache
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.exe
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Statistics\obj\Debug\Statistics.pdb

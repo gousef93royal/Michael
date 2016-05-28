@@ -1,0 +1,44 @@
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Shop\bin\Debug\Shop.exe.config
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Shop\bin\Debug\Shop.exe
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Shop\bin\Debug\Shop.pdb
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Shop\obj\Debug\Shop.Shop2.resources
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Shop\obj\Debug\Shop.ShopMain.resources
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Shop\obj\Debug\Shop.exe
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Shop\obj\Debug\Shop.pdb
+C:\Users\John\Desktop\GUI\Version 1\Shop\bin\Debug\Shop.exe.config
+C:\Users\John\Desktop\GUI\Version 1\Shop\bin\Debug\Shop.exe
+C:\Users\John\Desktop\GUI\Version 1\Shop\bin\Debug\Shop.pdb
+C:\Users\John\Desktop\GUI\Version 1\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GUI\Version 1\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\John\Desktop\GUI\Version 1\Shop\obj\Debug\Shop.Shop2.resources
+C:\Users\John\Desktop\GUI\Version 1\Shop\obj\Debug\Shop.ShopMain.resources
+C:\Users\John\Desktop\GUI\Version 1\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\GUI\Version 1\Shop\obj\Debug\Shop.exe
+C:\Users\John\Desktop\GUI\Version 1\Shop\obj\Debug\Shop.pdb
+C:\Users\John\Desktop\GUI\Version 1\Shop\bin\Debug\MySql.Data.dll
+C:\Users\John\Desktop\GUI\Version 1\Shop\bin\Debug\Phidget21.NET.dll
+C:\Users\John\Desktop\Classes\PROP\GUI\Version 1\Shop\bin\Debug\Shop.exe.config
+C:\Users\John\Desktop\Classes\PROP\GUI\Version 1\Shop\obj\Debug\Shop.exe
+C:\Users\John\Desktop\Classes\PROP\GUI\Version 1\Shop\obj\Debug\Shop.pdb
+<<<<<<< HEAD:desktop applications/GUI/Version 1/Snackbar/Alt Design App (Improved)/Shop/obj/Debug/Shop.csproj.FileListAbsolute.txt
+C:\Users\John\Desktop\Version 1\Shop\bin\Debug\Shop.exe.config
+C:\Users\John\Desktop\Version 1\Shop\obj\Debug\Shop.exe
+C:\Users\John\Desktop\Version 1\Shop\obj\Debug\Shop.pdb
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Snackbar\Alt Design App (Improved)\Shop\bin\Debug\Shop.exe.config
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Snackbar\Alt Design App (Improved)\Shop\obj\Debug\Shop.exe
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Snackbar\Alt Design App (Improved)\Shop\obj\Debug\Shop.pdb
+=======
+C:\Users\John\Desktop\Classes\PROP\GUI\Version 1\Shop\bin\Debug\Shop.exe
+C:\Users\John\Desktop\Classes\PROP\GUI\Version 1\Shop\bin\Debug\Shop.pdb
+C:\Users\John\Desktop\Classes\PROP\GUI\Version 1\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Classes\PROP\GUI\Version 1\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\John\Desktop\Classes\PROP\GUI\Version 1\Shop\obj\Debug\Shop.ShopMain.resources
+C:\Users\John\Desktop\Classes\PROP\GUI\Version 1\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\Classes\PROP\GUI\Version 1\Shop\obj\Debug\Shop.RechargeForm.resources
+C:\Users\John\Desktop\Shop\bin\Debug\Shop.exe.config
+C:\Users\John\Desktop\Shop\obj\Debug\Shop.exe
+C:\Users\John\Desktop\Shop\obj\Debug\Shop.pdb
+>>>>>>> origin/master:desktop applications/GUI/Version 1/Snackbar/Shop/obj/Debug/Shop.csproj.FileListAbsolute.txt

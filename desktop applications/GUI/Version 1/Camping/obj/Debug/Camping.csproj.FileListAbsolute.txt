@@ -1,0 +1,11 @@
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Camping\bin\Debug\Camping.exe.config
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Camping\obj\Debug\Camping.CampingAccept.resources
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Camping\obj\Debug\Camping.CampingDeny.resources
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Camping\obj\Debug\Camping.CampingScan.resources
+D:\Fontys\Semester 2\Block 3\ProP Project\GUI\Version 1\Camping\obj\Debug\Camping.csproj.GenerateResource.Cache
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Camping\obj\Debug\Camping.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Camping\obj\Debug\Camping.CampingScan.resources
+C:\Users\Dylan\Desktop\GIT\GroupA-Prop\desktop applications\GUI\Version 1\Camping\obj\Debug\Camping.csproj.GenerateResource.Cache
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Camping\obj\Debug\Camping.csprojResolveAssemblyReference.cache
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Camping\obj\Debug\Camping.CampingScan.resources
+D:\TFS\Yousuf.20160526\desktop applications\GUI\Version 1\Camping\obj\Debug\Camping.csproj.GenerateResource.Cache
